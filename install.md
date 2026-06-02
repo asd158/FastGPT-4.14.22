@@ -5,3 +5,6 @@
     nvm install 20
     nvm use 20
     node --version
+
+    npm install -g pnpm@latest-11
+
