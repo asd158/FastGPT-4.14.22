@@ -8,3 +8,7 @@
 
     npm install -g pnpm@latest-11
 
+# dev
+
+    cd deploy/dev
+    docker compose up -d
